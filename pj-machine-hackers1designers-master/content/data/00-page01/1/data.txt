@@ -1,0 +1,57 @@
+path: content/data/00-page01/1
+
+----
+
+content: # Write a Headline!
+
+
+----
+
+index: 1
+
+----
+
+zoom: 0.8999999999999999
+
+----
+
+xPos: 2.3999999999999986
+
+----
+
+yPos: 0.5999999999999984
+
+----
+
+wordSpace: 0
+
+----
+
+blockSize: 6.5
+
+----
+
+filesNb: 1
+
+----
+
+font: trickster
+
+----
+
+color: #F5351E
+
+----
+
+rotation: 15
+
+----
+
+strokeWidth: 0
+
+----
+
+opacity: 1
+
+----
+
