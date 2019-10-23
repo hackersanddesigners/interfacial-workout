@@ -1,0 +1,27 @@
+doctype html
+html
+  include snippets/head.jade
+  
+  body(data-page='index')
+
+    header
+      .module--infos
+        a(href="/")
+          h1 #{appName}
+
+    .module--listePresentations
+      .dossier-list
+
+    .js--templates
+      .dossier(data-nom)
+        .index
+        .dossier-inside
+          a.folder-link(href title)
+            .title
+
+
+    include snippets/footer.jade
+    //- specific scripts
+    script(src='/js/index.js')
+
+
