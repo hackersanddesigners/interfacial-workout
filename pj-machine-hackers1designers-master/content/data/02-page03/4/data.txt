@@ -1,0 +1,85 @@
+path: content/data/02-page03/4
+
+----
+
+content: # Inter-facing with Sweating Polar Bears 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+----
+
+index: 4
+
+----
+
+zoom: 0.8999999999999999
+
+----
+
+xPos: 2.3999999999999986
+
+----
+
+yPos: 0.2
+
+----
+
+wordSpace: 0
+
+----
+
+blockSize: 6.5
+
+----
+
+filesNb: 1
+
+----
+
+font: gulax
+
+----
+
+color: #F5351E
+
+----
+
+rotation: 0
+
+----
+
+strokeWidth: 0
+
+----
+
+opacity: 1
+
+----
+

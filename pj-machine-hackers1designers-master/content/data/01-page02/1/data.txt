@@ -2,7 +2,7 @@ path: content/data/01-page02/1
 
 ----
 
-content: # Write a Headline!
+content: ![alt](/data/01-page02/1/01.jpg)
 
 
 ----

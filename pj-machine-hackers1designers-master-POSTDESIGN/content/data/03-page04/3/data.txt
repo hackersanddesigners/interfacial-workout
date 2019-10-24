@@ -2,50 +2,10 @@ path: content/data/03-page04/3
 
 ----
 
-content: ![alt](/data/03-page04/3/01.jpg)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+content: One might say... the glass is half empty until unicorns populate the earth. 
+One also might say... if there are more unicorns, shouldn't they be named multicorns.
+Which raises the question: how would you call the act of eating a bag of popped multicorns while watching the movie Bambi?
+Half empty or not... let’s integrate the muliticorn. 
 
 
 
@@ -25079,15 +25039,15 @@ index: 3
 
 ----
 
-zoom: 0.7499999999999998
+zoom: 0.6499999999999997
 
 ----
 
-xPos: 8.000000000000002
+xPos: 7.800000000000002
 
 ----
 
-yPos: 8.400000000000002
+yPos: 8.200000000000003
 
 ----
 
@@ -25103,7 +25063,7 @@ filesNb: 1
 
 ----
 
-font: terminal
+font: bluu
 
 ----
 

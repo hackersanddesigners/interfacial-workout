@@ -2,7 +2,16 @@ path: content/data/02-page03/3
 
 ----
 
-content: ![alt](/data/02-page03/3/01.jpg)
+content: The format of discussions are many and a subject to discuss.
+
+But while discussions can truly be insightful, insight can surely be discursive. 
+
+The stream of consciousness beckons, did you bring a swimsuit?
+
+But, fortunally the uncertainty of bringing or not bringing the swimsuit at this time of year in Denmark might not be the biggest problem. Sweating polar bears on the other hand are a problem. The sweating makes them thirsty, hungry and angry. Hangry polarbears are probably the worst, especially if they are running around in Copenhagen at the Post Design festival. 
+'POST DESIGNERS EATEN BY HANGRY POLAR BEARS' would be the headline of this saturdays newspaper...
+
+
 
 
 

@@ -2,7 +2,55 @@ path: content/data/04-page05/3
 
 ----
 
-content: ![alt](/data/03-page04/3/01.jpg)
+content: The world isn't grey, there is always white blocks at the horizon. If you look hard and long enough at these white blocks they will turn into lava and the world as you know it will die. Therefore it is very important that you look at all the grey stuff around the white blocks. Your retinas will burn otherwise. And as you close your eyes, there will still be the imprint of white blocks at the horizon. Everything else is dark.Your inner world isn't grey either. So look at the nuances of grey within you and outside of you. The energy pulsing from these white blocks are beautiful and deadly. You can hide in your little world, or you can explore your surroundings. You can do both, but the light and the dark are always there to hold you. If you don't want a hug, that is ok too. The world isn't grey.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -24887,7 +24935,7 @@ filesNb: 1
 
 ----
 
-font: terminal
+font: sportinggrotesque
 
 ----
 

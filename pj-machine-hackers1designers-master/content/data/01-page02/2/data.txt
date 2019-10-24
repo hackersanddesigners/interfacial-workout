@@ -2,7 +2,7 @@ path: content/data/01-page02/2
 
 ----
 
-content: Write your story here... 
+content: ![alt](/data/01-page02/2/02.jpg)
 
 
 
