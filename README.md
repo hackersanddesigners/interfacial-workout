@@ -81,15 +81,15 @@ Connect to back header of the Makey Makey, and space button. For this you don’
 
 I changed the code of the PJ machine: modified the keys associated with the actions we need for this workshop as far as the makey factory settings of a Makey Makey permit. Because it takes only ASCII I could program 7 buttons only (see below). To print, press T on the computer keyboard.
 
-`W = w = 119 = move up
-A = a = 97 = move down
-S = s = 115 = move left
-D = d = 100 = move right
-F = f = 102 = switch to next object
-G = g = 103 = zoomin key (make bigger)
-space bar = 32 = zoomout key (make smalller)
+* W = w = 119 = move up
+* A = a = 97 = move down
+* S = s = 115 = move left
+* D = d = 100 = move right
+* F = f = 102 = switch to next object
+* G = g = 103 = zoomin key (make bigger)
+* Space bar = 32 = zoomout key (make smalller)
 
-T = print/pdf (on computer keyboard, not on makey)
-N = cycle through fonts (on computer keyboard, not on makey)`
+* T = print/pdf (on computer keyboard, not on makey)
+* N = cycle through fonts (on computer keyboard, not on makey)`
 
 Having issues? Consult the tutorial here to trouble shoot: *https://github.com/sarahgarcin/pj-machine-workshop* 
