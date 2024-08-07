@@ -10,7 +10,7 @@
   "author": "Sarah Garcin",
   "license": "GPL-3.0",
   "dependencies": {
-    "express": "^4.13.4",
+    "express": "^4.17.3",
     "fs-extra": "^0.26.5",
     "glob": "^7.0.3",
     "gulp-file": "^0.3.0",
